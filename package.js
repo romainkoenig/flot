@@ -25,6 +25,7 @@ Package.onUse(function(api) {
     api.add_files(['jquery.flot.symbol.js'], 'client');
     api.add_files(['jquery.flot.threshold.js'], 'client');
     api.add_files(['jquery.flot.time.js'], 'client');
+    api.add_files(['curvedLines.js'],'client');
 });
 
 Package.onTest(function(api) {
