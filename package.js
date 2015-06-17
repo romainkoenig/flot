@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'flot:flot',
+  name: 'voyag3r:flot',
   version: '0.8.3',
   summary: 'A meteor package for jQuery flot.',
   git: 'https://github.com/dotansimha/flot.git',
